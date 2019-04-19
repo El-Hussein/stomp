@@ -28,7 +28,7 @@ for test open file home.html on the browser (note: don't use chrome it has probl
 
 and open another incognito window.
 ## Output Examlpe
-![](images/output.png)
+![](images/output.PNG)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
