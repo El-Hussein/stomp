@@ -1,0 +1,14 @@
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="stomp.js"></script>
+<script type="text/javascript" src="app.js"></script>
+
+<h5>Welcome to our chat</h5>
+
+<div id="chatbody"></div>
+<!-- <form action="/sendmessage" method="post" target="frame"> -->
+	<form action="#">
+	<input type="text" id="name"><br>
+	<textarea id ="content"></textarea><br>
+	<button onclick="send()">send</button>
+</form>
+<iframe style="display: none;" src="" id="frame"></iframe>
