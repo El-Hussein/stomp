@@ -9,6 +9,8 @@ for rabbitmq installing link from [here](https://www.rabbitmq.com/download.html)
 then you have to apply rabbitmq manager as follow.
 
 press win then type rabbit
+
+
 ![](images/plugins.png)
 
 then paste the following command:
@@ -16,6 +18,8 @@ then paste the following command:
 `$  rabbitmq-plugins enable rabbitmq_management`
 
 then start rabbitmq
+
+
 ![](images/start.png)
 
 
