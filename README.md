@@ -26,7 +26,7 @@ then start rabbitmq
 Add Exchange logs open [link](http://localhost:15672/#/exchanges)
 
 
-![](images/logs.png)
+![](images/logs.PNG)
 
 
 ## test
