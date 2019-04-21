@@ -23,6 +23,12 @@ then start rabbitmq
 ![](images/start.png)
 
 
+Add Exchange logs open [link](http://localhost:15672/#/exchanges)
+
+
+![](images/logs.png)
+
+
 ## test
 for test open file home.html on the browser (note: don't use chrome it has problem with http not secuire requests, user Fiefox recommended.)
 
